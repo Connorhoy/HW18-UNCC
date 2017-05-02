@@ -1,0 +1,27 @@
+{
+  "name": "hw18",
+  "version": "1.0.0",
+  "description": "This is the 18th Homework assignment for the UNCC coding bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connorhoy/HW18-UNCC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Connorhoy/HW18-UNCC/issues"
+  },
+  "homepage": "https://github.com/Connorhoy/HW18-UNCC#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.9.7",
+    "request": "^2.81.0"
+  }
+}
